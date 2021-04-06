@@ -9,7 +9,7 @@ Industry and commercial growth forecasting ideas using consumption data
 
 - python3
 - LightGBM
-- Geocoding(you use in google sheet without download)
+- Geocoding(you can use in google sheet without download)
 - QGIS
 
 ## Installation
